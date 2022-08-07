@@ -1,0 +1,25 @@
+#calculator{
+    width: 60%;
+    height: 70%;
+    minwidth: 300px;
+    min-height: 400 px;
+    border: 2px solid black;
+
+}
+
+#display-container{
+    font-size: 2.5rem;
+    color:bisque;
+    width:100%;
+    height:20%;
+    border: 0.5px solid brown
+
+}
+
+.button{
+    width: 25%;
+    height: 20%;
+    display: inline-block;
+    border: 2px solid black;
+    font-size: 1.8rem;
+}
